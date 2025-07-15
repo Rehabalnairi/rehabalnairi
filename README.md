@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👩‍💻I'm Rehab alNairi
 
-**Software Engineer | Web & Mobile Developer | IoT & AI Enthusiast | Problem Solver**
+**Software Engineer | Web & Mobile Developer | IoT & AI Enthusiast 
 
 🎓 Graduated in 2024 from the University of Technology and Applied Sciences, Muscat  
 🌍 Based in Oman | 🌐 Passionate about building solutions that combine intelligence and real-world impact
@@ -12,7 +12,7 @@
 
 I'm a dedicated software engineer with strong experience in:
 
-- **.NET Framework**, **C#**, **Java** , **SQL** 
+- **.NET Framework**, **C#**, **Java Spring Boot** , **SQL** ,**MYSQL** 
 - **AI & IoT integration** – like my **Driver Drowsiness Detection System** using OpenCV and sensors
 - **Mobile & Web Application Development** (HTML, CSS,PHP, JavaScript,firbase,java,react)
 - **Data Analysis**, **UI/UX Design**, and **Project Management**
